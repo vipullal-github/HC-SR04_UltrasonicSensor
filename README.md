@@ -1,4 +1,4 @@
-"# HC-SR04_UltrasonicSensor" 
+# HC-SR04_UltrasonicSensor
 
 I wanted to interface my PICO with the popular HC SR-04 sensor. As you are aware, this sensor is very cheap and works like a sonar. It an untrasonic beep and listens to the echo from an object. 
 
