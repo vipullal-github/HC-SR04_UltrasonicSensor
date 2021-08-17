@@ -1,6 +1,6 @@
 # HC-SR04_Ultrasonic Sensor with the Raspberry PI PICO
 
-I wanted to interface my PICO with the popular HC SR-04 sensor. As you are aware, this sensor is very cheap and works like a sonar. It an untrasonic beep and listens to the echo from an object. 
+I wanted to interface my PICO with the popular HC SR-04 sensor. As you are aware, this sensor is very cheap and works like a sonar. It emits an untrasonic beep and listens to the echo from an object. 
 
 ![image](extras/HC-SR04.PNG)
 
