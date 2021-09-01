@@ -1,6 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
 
-set(PICO_SDK_PATH "/mnt/d/tools/pico/pico-sdk")
 set(PICO_PLATFORM "rp2040")
 
 #add_definitions( -Dexecutable=hc_sr04 )
